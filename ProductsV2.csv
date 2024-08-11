@@ -1,0 +1,31 @@
+id,title,price,discountPercentage,rating,stock,brand,category
+1,iPhone 9,549,12.96,4.69,94,Apple,smartphones
+2,iPhone X,899,17.94,4.44,34,Apple,smartphones
+3,Samsung Universe 9,1249,15.46,4.09,36,Samsung,smartphones
+4,OPPOF19,280,17.91,4.3,123,OPPO,smartphones
+5,Huawei P30,499,10.58,4.09,32,Huawei,smartphones
+6,MacBook Pro,1749,11.02,4.57,83,Apple,laptops
+7,Samsung Galaxy Book,1499,4.15,4.25,50,Samsung,laptops
+8,Microsoft Surface Laptop 4,1499,10.23,4.43,68,Microsoft Surface,laptops
+9,Infinix INBOOK,1099,11.83,4.54,96,Infinix,laptops
+10,HP Pavilion 15-DK1056WM,1099,6.18,4.43,89,HP Pavilion,laptops
+11,perfume Oil,13,8.4,4.26,65,Impression of Acqua Di Gio,fragrances
+12,Brown Perfume,40,15.66,4,52,Royal_Mirage,fragrances
+13,Fog Scent Xpressio Perfume,13,8.14,4.59,61,Fog Scent Xpressio,fragrances
+14,Non-Alcoholic Concentrated Perfume Oil,120,15.6,4.21,114,Al Munakh,fragrances
+15,Eau De Perfume Spray,30,10.99,4.7,105,Lord - Al-Rehab,fragrances
+16,Hyaluronic Acid Serum,19,13.31,4.83,110,L'Oreal Paris,skincare
+17,Tree Oil 30ml,12,4.09,4.52,78,Hemani Tea,skincare
+18,Oil Free Moisturizer 100ml,40,13.1,4.56,88,Dermive,skincare
+19,Skin Beauty Serum.,46,10.68,4.42,54,ROREC White Rice,skincare
+20,Freckle Treatment Cream- 15gm,70,16.99,4.06,140,Fair & Clear,skincare
+21,- Daal Masoor 500 grams,20,4.81,4.44,133,Saaf & Khaas,groceries
+22,Elbow Macaroni - 400 gm,14,15.58,4.57,146,Bake Parlor Big,groceries
+23,Orange Essence Food Flavou,14,8.04,4.85,26,Baking Food Items,groceries
+24,cereals muesli fruit nuts,46,16.8,4.94,113,fauji,groceries
+25,Gulab Powder 50 Gram,70,13.58,4.87,47,Dry Rose,groceries
+26,Plant Hanger For Home,41,17.86,4.08,131,Boho Decor,home-decoration
+27,Flying Wooden Bird,51,15.58,4.41,17,Flying Wooden,home-decoration
+28,3D Embellishment Art Lamp,20,16.49,4.82,54,LED Lights,home-decoration
+29,Handcraft Chinese style,60,15.34,4.44,7,luxury palace,home-decoration
+30,Key Holder,30,2.92,4.92,54,Golden,home-decoration
